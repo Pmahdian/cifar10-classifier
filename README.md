@@ -59,4 +59,4 @@ This project is under **MIT License** - Feel free to use and modify!
 - **Researchers** comparing optimization techniques  
 
 ---
-**🎨🖼️ Classify with confidence!** 🚀
+
