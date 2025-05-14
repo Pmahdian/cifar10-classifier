@@ -60,3 +60,4 @@ This project is under **MIT License** - Feel free to use and modify!
 
 ---
 
+**🎨🖼️ Classify with confidence!** 🚀
