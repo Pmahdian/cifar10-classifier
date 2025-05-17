@@ -48,8 +48,6 @@ This repository provides a **complete deep learning pipeline** for classifying i
 📧 **Contact**: [Your Email] | 💻 **LinkedIn**: [Your Profile]  
 
 ---
-### **License**  
-This project is under **MIT License** - Feel free to use and modify!  
 
 ---
 
