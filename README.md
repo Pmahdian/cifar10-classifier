@@ -45,7 +45,6 @@ This repository provides a **complete deep learning pipeline** for classifying i
 ⭐ **Star the repo** if you find it useful!  
 🐛 **Report issues** for bugs or suggestions.  
 
-📧 **Contact**: [Your Email] | 💻 **LinkedIn**: [Your Profile]  
 
 ---
 
